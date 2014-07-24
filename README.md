@@ -1,0 +1,5 @@
+MobileSynhronizationApp
+=======================
+
+Repository for THESIS
+
